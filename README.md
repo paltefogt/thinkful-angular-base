@@ -1,5 +1,8 @@
 # ThinkfulAngularBase
 
+Install Git
+https://git-scm.com/downloads
+
 Install node/npm
 https://nodejs.org/en/download/
 
